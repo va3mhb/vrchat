@@ -1,0 +1,1 @@
+This directory is for VRChat world building code creation and is attached to github.
